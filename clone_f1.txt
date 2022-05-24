@@ -1,1 +1,2 @@
 first Clone file from local terminal
+File is also used to show stash area usage temporarily.
